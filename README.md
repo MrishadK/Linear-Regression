@@ -63,9 +63,3 @@ The project follows proper data preprocessing, model building, evaluation, and v
 - Can linear regression be used for classification?
 - What happens if regression assumptions are violated?
 
----
-- Email: _your_email_here_ (optional)
-
----
-
-### 🚀 Happy Learning! 🚀
